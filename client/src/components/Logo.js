@@ -1,4 +1,4 @@
-import logo from '../assets/images/logo(2).jpg';
+import logo from '../assets/images/logo(3).jpeg';
 
 const Logo = () => {
   return <img src={logo} alt='jobster logo' className='logo' />;
